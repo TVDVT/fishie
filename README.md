@@ -1,7 +1,9 @@
 # Fishie 
 <img width="1198" height="955" alt="fishieflat" src="https://github.com/user-attachments/assets/dacae339-b230-40ae-a710-b80af16310cc" />
+<img width="1198" height="955" alt="image" src="https://github.com/user-attachments/assets/b8f3a776-356d-4992-90bf-091be138e394" />
 
-Starbie is a tiny motion-controlled digital pet: basically a desktop Tamagotchi with minimal gameplay buttons. Instead of pressing controls, you interact with it by physically moving the board.
+
+Fishie is a tiny motion-controlled digital pet: basically a desktop Tamagotchi with minimal gameplay buttons. Instead of pressing controls, you interact with it by physically moving the board.
 
 *[This guide from Half Life](Week%201%20Guide.md)! was used to complete this project!*
 
