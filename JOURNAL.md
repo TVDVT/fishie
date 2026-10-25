@@ -4,9 +4,9 @@
 <!-- Generated: 2026-10-11T20:45:47.284Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvkwuk301di01py3dkyvnw6). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital fish pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> A tiny motion-controlled digital fish pet in a fish bowl, basically a desktop Tamagotchi. Totally not a Starboy.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
@@ -43,7 +43,7 @@ Instead of doing a hair clip, I want to do a bag charm / keychain instead to be 
 
 I want one switch to drop food fish into the bowl and another one to change fish maybe? or just wake it up and make it exit its house we'll see
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZPiqpWPtYbZSO8yqI3CtuWRVuOeGidYF/869a229107f58eba4c2e001c7e8bade76863b6ca71fa845ca20e5b5f4f1c3d1f.png)
+![image](https://halflife.hackclub-assets.com/sessions/ZPiqpWPtYbZSO8yqI3CtuWRVuOeGidYF/869a229107f58eba4c2e001c7e8bade76863b6ca71fa845ca20e5b5f4f1c3d1f.png)
 
 ### 1 - Reel editing (25 min)
 
@@ -53,14 +53,14 @@ Figuring out how to use the arches for the first time was easy, but aligning eve
 
 The arches are not perfectly aligned yet so I added straight lines to close the whole thing for now. Currently I have a simple fish bowl that I will polish later on.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZPiqpWPtYbZSO8yqI3CtuWRVuOeGidYF/4cdd941986f27827c9ed0313c24711dbc3bd8c8cd4be4a3d9f3002db1e9c99b3.png)
+![image](https://halflife.hackclub-assets.com/sessions/ZPiqpWPtYbZSO8yqI3CtuWRVuOeGidYF/4cdd941986f27827c9ed0313c24711dbc3bd8c8cd4be4a3d9f3002db1e9c99b3.png)
 
 ### 3 - Wiring (25 min)
 The wiring consisted of a lot of trial and error but it is functional at the moment, it will probably change if I add a battery. I might also have to move the microcontroller to have the usb-c opening at the edge but I don't know if it is necessary.
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZPiqpWPtYbZSO8yqI3CtuWRVuOeGidYF/dd57bcc9d773e5e4728df1bc8410ae359db0598cfe8d3f8e237713e8029ffa06.png)
+![image](https://halflife.hackclub-assets.com/sessions/ZPiqpWPtYbZSO8yqI3CtuWRVuOeGidYF/dd57bcc9d773e5e4728df1bc8410ae359db0598cfe8d3f8e237713e8029ffa06.png)
 
 # What it looks like right now
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZPiqpWPtYbZSO8yqI3CtuWRVuOeGidYF/8cea7b007213cc38d69b4a518b075c9df7cea1958293716e2e3e55273c846d14.png)
+![image](https://halflife.hackclub-assets.com/sessions/ZPiqpWPtYbZSO8yqI3CtuWRVuOeGidYF/8cea7b007213cc38d69b4a518b075c9df7cea1958293716e2e3e55273c846d14.png)
 
 ### 2026-10-10 – Work session
 
