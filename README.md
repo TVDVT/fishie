@@ -24,7 +24,7 @@ The PCB design, renders, and an Arduino starter firmware are included here. The 
 
 ## Software
 
-[`Firmware/`](Firmware/) contains one self-contained Arduino IDE sketch for the XIAO ESP32-C3. Builders customize pins, menu actions, starting values, and motion settings together at the top of the sketch. The folder also includes a draggable [browser simulator](Firmware/simulator.html). See the [firmware README](Firmware/README.md) for setup notes.
+[`Firmware/`](Firmware/) contains one self-contained Arduino IDE sketch for the XIAO ESP32-C3. Builders customize pins, menu actions, starting values, and motion settings together at the top of the sketch. 
 
 ## Repository contents
 
