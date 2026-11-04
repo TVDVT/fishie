@@ -5,8 +5,6 @@
 
 Fishie is a tiny motion-controlled digital pet: basically a desktop Tamagotchi with minimal gameplay buttons. Instead of pressing controls, you interact with it by physically moving the board.
 
-*[This guide from Half Life](Week%201%20Guide.md)! was used to complete this project!*
-
 ## What it is
 Fishie is designed to sit on your desk, show its personality on a small display, and react to how you handle it. Tilting, moving, and otherwise checking in on your pet are meant to be part of the experience.
 
