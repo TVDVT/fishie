@@ -3,7 +3,7 @@ title: "Fishie"
 github: "https://github.com/TVDVT/fishie/tree/main"
 description: "Fishie is designed to sit on your desk, show its personality on a small display, and react to how you handle it. Tilting, moving, and otherwise checking in on your pet are meant to be part of the experience.\n\nThe screen contains a little koi fish that swims freely from left to right. You can pet it, feed it and play with it using both the key switches and a tilting mechanism. As you play with it, its energy decreases, making him sleepy. Thankfully, there is an option to let the fishie sleep :D. Its love also increases as you play with him and pet him so keep him busy!\n\nThe board includes a microcontroller, display, motion sensor, and environmental sensor in a compact PCB design. It is USB powered and built around beginner-friendly through-hole soldering for the add-on components."
 created_at: "2026-11-04"
-total_time: "8h 18m"
+total_time: "10h 18m"
 ---
 
 # Fishie – devlog
@@ -133,3 +133,16 @@ I continued to work on the firmware and did an animation for my koi fish
 Continued working on the animation and put it in the firmware
 
 **Total time spent: 1h**
+
+# November 18, 2026: Adjusted BOM + Made a case
+<!-- fabricate:entry 3427 -->
+
+I forgot to make a timelapse but I found all my parts on Aliexpress and adjuste my PCB cost by adding a coupon. Then I adjusted everything on the BOM tool on this website that I didn't know existed.
+
+I also made a case on onshape, which has two parts.
+
+For the readme, I mentioned that the guide is from Half Life, but I did not submit it there. I am only submitting it on Fabricate.
+
+Timelapse: https://lapse.hackclub.com/timelapse/Dselhf8n9Elb
+
+**Total time spent: 2h**
