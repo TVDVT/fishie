@@ -14,7 +14,7 @@ The board includes a microcontroller, display, motion sensor, and environmental 
 
 ## Why?
 
-This project was created for [halflife's](https://halflife.hackclub.com/) first week! Instead of doing a Starbie, I wanted to make it my own and therefore decided to have a little fish in a fish bowl because out of all the pets, fishies are the most low maintenance but very beautiful, especially koi fishies! I do have four fish in a fish tank at home  but having one right on your desk without having the risk of water spilling on all your electronics is a lot better, and it takes less space too!
+Instead of doing a Starbie guide from Half life (but submitting it only to Fabricate), I wanted to make it my own and therefore decided to have a little fish in a fish bowl because out of all the pets, fishies are the most low maintenance but very beautiful, especially koi fishies! I do have four fish in a fish tank at home  but having one right on your desk without having the risk of water spilling on all your electronics is a lot better, and it takes less space too!
 
 ## Project status
 
