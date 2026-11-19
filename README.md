@@ -34,6 +34,12 @@ The PCB design, renders, and an Arduino starter firmware are included here. The 
 <img width="425" height="329" alt="Screenshot 2026-11-04 075435" src="https://github.com/user-attachments/assets/19811303-4547-4adb-be78-855be9a9d4c0" />
 <img width="460" height="283" alt="image" src="https://github.com/user-attachments/assets/b79e7816-b1f7-46f2-9c32-832ba062809d" />
 
+# Case
+I used Onshape to make the case, it contains two parts: https://cad.onshape.com/documents/63eb946cacd028f08d96150c/w/98cfc80221567fd52314375c/e/984150ae39f0c392c7accc55?renderMode=0&uiState=6afe588132d86aa522902108.
+
+<img width="702" height="469" alt="image" src="https://github.com/user-attachments/assets/90678344-a524-4141-8f1a-090887b04a54" />
+
+
 
 # Fishie – bill of materials
 
@@ -47,12 +53,12 @@ The PCB design, renders, and an Arduino starter firmware are included here. The 
 | 0.96" OLED Display | Part | 1 | - | $1.99 | AliExpress | Grant | |
 | MX Switches | Part | 2 | $0.23 | $0.46 | AliExpress | Already Own | |
 | Keycaps | Part | 2 | $0.20 | $0.40 | AliExpress | Already Own | Own |
-| 3D Printed Case | 3D Printed | 1 | - | - | - | Grant | |
-| Shipping | Shipping | 1 | - | $0.00 | - | Grant | |
+| 3D Printed Case | 3D Printed | 1 | - | 3.75 | Printing Legion | Grant | |
+| Shipping | Shipping | 1 | - | $4.97 | - | Grant | |
 
 ### Cost Summary
 
 | Category | Total (USD) |
 |----------|------------:|
-| Total Project Cost | $16.88 |
-| Grant Total Requested | $16.02 |
+| Total Project Cost | $25.60 |
+| Grant Total Requested | $24.74 |
